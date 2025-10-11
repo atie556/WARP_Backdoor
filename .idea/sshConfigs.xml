@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="127.0.0.1" id="fa9644d7-85da-48b3-ae81-6200ca7233c8" port="55" nameFormat="DESCRIPTIVE" username="zhouyibo" useOpenSSHConfig="false" />
+      <sshConfig authType="PASSWORD" host="127.0.0.1" id="f569a528-98dc-47dd-8b36-5d2836988a3b" port="55" nameFormat="DESCRIPTIVE" username="zhouyibo" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" host="127.0.0.1" id="b6c4606b-f313-482d-9b7e-da5bcfc71af8" port="22" nameFormat="DESCRIPTIVE" username="zhouyibo" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" host="127.0.0.1" id="2dc6ddea-7c5a-4411-9d33-398f4ce3d086" port="66" nameFormat="DESCRIPTIVE" username="zhouyibo" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>
