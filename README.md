@@ -1,6 +1,6 @@
 ## WARP Method Overview
 
-![WARP Pipeline](warp_pipeline.png)
+![Pipeline](pipeline.png)
 
 The figure above shows the pipeline of our WARP method:
 1. Prepare the original retrieval corpus.
